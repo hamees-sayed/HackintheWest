@@ -473,7 +473,7 @@ img {
 }
 
 .bg-gray {
-  background-color: #f0f2f6 !important;
+  background-color: #0e1113 !important;
 }
 
 .bg-black {
@@ -3540,8 +3540,8 @@ button:focus {
 .accordion-panel {
   display: none;
   padding: 10px;
-  background-color: #eee;
-  color: 666;
+  background-color: #000000;
+  color: #fff;
   border-radius: 5px;
   margin-top: -10px;
   margin-bottom: 10px;
